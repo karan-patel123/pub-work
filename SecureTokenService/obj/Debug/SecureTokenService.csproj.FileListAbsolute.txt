@@ -1,0 +1,10 @@
+E:\dot_net\SecureTokenService\obj\Debug\SecureTokenService.csproj.AssemblyReference.cache
+E:\dot_net\SecureTokenService\obj\Debug\SecureTokenService.csproj.CoreCompileInputs.cache
+E:\dot_net\SecureTokenService\bin\Debug\SecureTokenService.exe.config
+E:\dot_net\SecureTokenService\bin\Debug\SecureTokenService.exe
+E:\dot_net\SecureTokenService\bin\Debug\SecureTokenService.pdb
+E:\dot_net\SecureTokenService\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\dot_net\SecureTokenService\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\dot_net\SecureTokenService\obj\Debug\SecureTo.F3C880DB.Up2Date
+E:\dot_net\SecureTokenService\obj\Debug\SecureTokenService.exe
+E:\dot_net\SecureTokenService\obj\Debug\SecureTokenService.pdb
