@@ -17,7 +17,7 @@ namespace SecureTokenService
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new TokenVaultService()
+                new Service1()
             };
             ServiceBase.Run(ServicesToRun);
         }
